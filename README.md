@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=ubuntu-linux)](https://ubuntu.com)
-  [![OS:Windows10](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![OS:Android](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
