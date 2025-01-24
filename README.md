@@ -3,7 +3,10 @@
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu-linux)](https://ubuntu.com)
   [![OS:Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![OS:Android](https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android)](https://www.android.com/)
+  
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-0078d7?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+
+  [![SSG:Hugo](https://img.shields.io/badge/SSG-Hugo-FF4088?style=flat-square&logo=hugo)](https://code.visualstudio.com/)
 
 <!--
 **xilouet/xilouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
